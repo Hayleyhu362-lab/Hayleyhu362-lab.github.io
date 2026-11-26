@@ -1,0 +1,1 @@
+V6.1: 5 new photos, 8 video excerpts (5–20s), neutral clip titles, synthesized forest stream and birds (click sound icon), fuller skill tree. All existing project content retained. No film soundtrack, no GPS EXIF published. Open index.html or use a static web host.

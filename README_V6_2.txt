@@ -1,0 +1,1 @@
+V6.2: replaces ambient sound with original synthesized sparse woodland birdsong, no stream, 75s loop, lower playback volume. All other website content retained.
